@@ -1,4 +1,6 @@
-![Studera Header](https://github.com/studera-AI/.github/blob/main/images/logo.svg) 
+<p align="center">
+  <img src="https://github.com/studera-AI/.github/blob/main/images/Studera-2.png" width="325" alt="Studera Header">
+</p>
 
 <br/>
-Welcome to our GitHub organization, where we harness the power of generative AI to create personalized study plans, generate practice tests, and provide valuable learning resources to support learners in their test preparation and educational journey through our innovative eLearning web application.
+We harness the power of generative AI to create personalized study plans, generate practice tests, and provide valuable learning resources to support learners in their test preparation and educational journey through our innovative eLearning web application.
